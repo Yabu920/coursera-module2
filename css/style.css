@@ -4,6 +4,10 @@
     padding:0;
     font-family:sans-serif;
 }
+.cols{
+    float:left;
+    padding:10px;
+}
 
 h1{
     text-align:center;
