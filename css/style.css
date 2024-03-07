@@ -16,7 +16,7 @@ h1{
     height:200px;
     background:rgb(130, 226, 233);
     border: 1px solid black;
-    
+    margin-right:10px;
     position:relative;
     clear:margin;
     padding:15px;
